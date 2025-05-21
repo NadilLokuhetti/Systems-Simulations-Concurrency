@@ -1,0 +1,44 @@
+2025-01-12 19:41:43 [WARNING] :  Thread-3: Transfer failed: Invalid transfer amount or identical account IDs.
+2025-01-12 19:41:43 [INFO] :  Thread-0: Initiating transfer of 100.0 from Account 1 to Account 2
+2025-01-12 19:41:43 [INFO] :  Thread-1: Initiating transfer of 200.0 from Account 2 to Account 3
+2025-01-12 19:41:43 [INFO] :  Thread-4: Initiating transfer of 50000.0 from Account 3 to Account 1
+2025-01-12 19:41:43 [INFO] :  Thread-2: Initiating transfer of 50.0 from Account 3 to Account 1
+2025-01-12 19:41:43 [WARNING] :  Thread-4: Transfer failed: Insufficient balance in Account 3
+2025-01-12 19:41:43 [INFO] :  Thread-5: Balance of account 1: 950.0
+2025-01-12 19:41:43 [INFO] :  Thread-5: Balance of account 3: 3150.0
+2025-01-12 19:41:46 [INFO] :  main: Account Balance1: 950.0
+2025-01-12 19:41:46 [INFO] :  main: Account Balance2: 1900.0
+2025-01-12 19:41:46 [INFO] :  main: Account Balance3: 3150.0
+2025-01-12 19:41:46 [INFO] :  main: Transaction history for Account 1:
+2025-01-12 19:41:46 [INFO] :  main: Transaction 
+  From Account: 1
+  To Account: 2
+  Amount: $100.00
+-----------------------------------
+2025-01-12 19:41:46 [INFO] :  main: Transaction 
+  From Account: 3
+  To Account: 1
+  Amount: $50.00
+-----------------------------------
+2025-01-12 19:41:46 [INFO] :  main: Transaction history for Account 2:
+2025-01-12 19:41:46 [INFO] :  main: Transaction 
+  From Account: 1
+  To Account: 2
+  Amount: $100.00
+-----------------------------------
+2025-01-12 19:41:46 [INFO] :  main: Transaction 
+  From Account: 2
+  To Account: 3
+  Amount: $200.00
+-----------------------------------
+2025-01-12 19:41:46 [INFO] :  main: Transaction history for Account 3:
+2025-01-12 19:41:46 [INFO] :  main: Transaction 
+  From Account: 2
+  To Account: 3
+  Amount: $200.00
+-----------------------------------
+2025-01-12 19:41:46 [INFO] :  main: Transaction 
+  From Account: 3
+  To Account: 1
+  Amount: $50.00
+-----------------------------------

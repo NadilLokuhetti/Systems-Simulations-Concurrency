@@ -1,60 +1,200 @@
-2025-01-01 13:18:52 [INFO] : CoffeeShopLoggerCustomer 1: - Order placed Customer 1's order 1
-2025-01-01 13:18:52 [INFO] : CoffeeShopLoggerCustomer 3: - Order placed Customer 3's order 1
-2025-01-01 13:18:52 [INFO] : CoffeeShopLoggerCustomer 5: - Order placed Customer 5's order 1
-2025-01-01 13:18:52 [INFO] : CoffeeShopLoggerCustomer 2: - Order placed Customer 2's order 1
-2025-01-01 13:18:52 [INFO] : CoffeeShopLoggerCustomer 4: - Order placed Customer 4's order 1
-2025-01-01 13:18:52 [SEVERE] : CoffeeShopLoggerBarista 4:  is preparing order: Customer 3's order 1
-2025-01-01 13:18:52 [SEVERE] : CoffeeShopLoggerBarista 5:  is preparing order: Customer 1's order 1
-2025-01-01 13:18:52 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 2's order 1
-2025-01-01 13:18:52 [SEVERE] : CoffeeShopLoggerBarista 1:  is preparing order: Customer 4's order 1
-2025-01-01 13:18:52 [SEVERE] : CoffeeShopLoggerBarista 3:  is preparing order: Customer 5's order 1
-2025-01-01 13:18:55 [INFO] : CoffeeShopLoggerCustomer 1: - Order placed Customer 1's order 2
-2025-01-01 13:18:55 [SEVERE] : CoffeeShopLoggerBarista 1:  is preparing order: Customer 1's order 2
-2025-01-01 13:18:55 [INFO] : CoffeeShopLoggerCustomer 3: - Order placed Customer 3's order 2
-2025-01-01 13:18:55 [SEVERE] : CoffeeShopLoggerBarista 4:  is preparing order: Customer 3's order 2
-2025-01-01 13:18:55 [INFO] : CoffeeShopLoggerCustomer 4: - Order placed Customer 4's order 2
-2025-01-01 13:18:55 [SEVERE] : CoffeeShopLoggerBarista 5:  is preparing order: Customer 4's order 2
-2025-01-01 13:18:56 [INFO] : CoffeeShopLoggerCustomer 2: - Order placed Customer 2's order 2
-2025-01-01 13:18:56 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 2's order 2
-2025-01-01 13:18:56 [INFO] : CoffeeShopLoggerCustomer 5: - Order placed Customer 5's order 2
-2025-01-01 13:18:56 [SEVERE] : CoffeeShopLoggerBarista 3:  is preparing order: Customer 5's order 2
-2025-01-01 13:18:58 [INFO] : CoffeeShopLoggerCustomer 3: - Order placed Customer 3's order 3
-2025-01-01 13:18:58 [SEVERE] : CoffeeShopLoggerBarista 3:  is preparing order: Customer 3's order 3
-2025-01-01 13:18:58 [INFO] : CoffeeShopLoggerCustomer 2: - Order placed Customer 2's order 3
-2025-01-01 13:18:58 [SEVERE] : CoffeeShopLoggerBarista 5:  is preparing order: Customer 2's order 3
-2025-01-01 13:18:58 [INFO] : CoffeeShopLoggerCustomer 1: - Order placed Customer 1's order 3
-2025-01-01 13:18:58 [SEVERE] : CoffeeShopLoggerBarista 4:  is preparing order: Customer 1's order 3
-2025-01-01 13:18:58 [INFO] : CoffeeShopLoggerCustomer 5: - Order placed Customer 5's order 3
-2025-01-01 13:18:58 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 5's order 3
-2025-01-01 13:18:59 [INFO] : CoffeeShopLoggerCustomer 4: - Order placed Customer 4's order 3
-2025-01-01 13:18:59 [SEVERE] : CoffeeShopLoggerBarista 1:  is preparing order: Customer 4's order 3
-2025-01-01 13:19:00 [INFO] : CoffeeShopLoggerCustomer 2: - Order placed Customer 2's order 4
-2025-01-01 13:19:00 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 2's order 4
-2025-01-01 13:19:00 [INFO] : CoffeeShopLoggerCustomer 3: - Order placed Customer 3's order 4
-2025-01-01 13:19:00 [SEVERE] : CoffeeShopLoggerBarista 5:  is preparing order: Customer 3's order 4
-2025-01-01 13:19:01 [INFO] : CoffeeShopLoggerCustomer 1: - Order placed Customer 1's order 4
-2025-01-01 13:19:01 [SEVERE] : CoffeeShopLoggerBarista 4:  is preparing order: Customer 1's order 4
-2025-01-01 13:19:02 [INFO] : CoffeeShopLoggerCustomer 4: - Order placed Customer 4's order 4
-2025-01-01 13:19:02 [SEVERE] : CoffeeShopLoggerBarista 3:  is preparing order: Customer 4's order 4
-2025-01-01 13:19:02 [INFO] : CoffeeShopLoggerCustomer 5: - Order placed Customer 5's order 4
-2025-01-01 13:19:02 [SEVERE] : CoffeeShopLoggerBarista 1:  is preparing order: Customer 5's order 4
-2025-01-01 13:19:02 [INFO] : CoffeeShopLoggerCustomer 2: - Order placed Customer 2's order 5
-2025-01-01 13:19:02 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 2's order 5
-2025-01-01 13:19:02 [INFO] : CoffeeShopLoggerCustomer 3: - Order placed Customer 3's order 5
-2025-01-01 13:19:03 [SEVERE] : CoffeeShopLoggerBarista 5:  is preparing order: Customer 3's order 5
-2025-01-01 13:19:05 [INFO] : CoffeeShopLoggerCustomer 5: - Order placed Customer 5's order 5
-2025-01-01 13:19:05 [SEVERE] : CoffeeShopLoggerBarista 3:  is preparing order: Customer 5's order 5
-2025-01-01 13:19:05 [INFO] : CoffeeShopLoggerCustomer 1: - Order placed Customer 1's order 5
-2025-01-01 13:19:05 [SEVERE] : CoffeeShopLoggerBarista 1:  is preparing order: Customer 1's order 5
-2025-01-01 13:19:05 [INFO] : CoffeeShopLoggerCustomer 4: - Order placed Customer 4's order 5
-2025-01-01 13:19:05 [SEVERE] : CoffeeShopLoggerBarista 4:  is preparing order: Customer 4's order 5
-2025-01-01 13:19:05 [INFO] : CoffeeShopLoggerCustomer 2: - Order placed Customer 2's order 6
-2025-01-01 13:19:05 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 2's order 6
-2025-01-01 13:19:06 [INFO] : CoffeeShopLoggerCustomer 3: - Order placed Customer 3's order 6
-2025-01-01 13:19:06 [SEVERE] : CoffeeShopLoggerBarista 5:  is preparing order: Customer 3's order 6
-2025-01-01 13:19:07 [INFO] : CoffeeShopLoggerCustomer 5: - Order placed Customer 5's order 6
-2025-01-01 13:19:07 [SEVERE] : CoffeeShopLoggerBarista 4:  is preparing order: Customer 5's order 6
-2025-01-01 13:19:08 [INFO] : CoffeeShopLoggerCustomer 1: - Order placed Customer 1's order 6
-2025-01-01 13:19:08 [SEVERE] : CoffeeShopLoggerBarista 1:  is preparing order: Customer 1's order 6
-2025-01-01 13:19:09 [INFO] : CoffeeShopLoggerCustomer 4: - Order placed Customer 4's order 6
-2025-01-01 13:19:09 [SEVERE] : CoffeeShopLoggerBarista 2:  is preparing order: Customer 4's order 6
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Customer 2
+Message    : Customer 2's order 1
+------------------------
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Barista 3
+Message    :  Preparing order for Customer 3's order 1
+------------------------
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 2's order 1
+------------------------
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Customer 4
+Message    : Customer 4's order 1
+------------------------
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Customer 3
+Message    : Customer 3's order 1
+------------------------
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Customer 1
+Message    : Customer 1's order 1
+------------------------
+2025-01-12 19:38:47 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:47
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 4's order 1
+------------------------
+2025-01-12 19:38:48 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:48
+Thread Name: Customer 1
+Message    : Customer 1's order 2
+------------------------
+2025-01-12 19:38:48 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:48
+Thread Name: Customer 2
+Message    : Customer 2's order 2
+------------------------
+2025-01-12 19:38:48 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:48
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 1's order 1
+------------------------
+2025-01-12 19:38:48 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:48
+Thread Name: Customer 3
+Message    : Customer 3's order 2
+------------------------
+2025-01-12 19:38:49 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:49
+Thread Name: Customer 4
+Message    : Customer 4's order 2
+------------------------
+2025-01-12 19:38:49 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:49
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 1's order 2
+------------------------
+2025-01-12 19:38:49 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:49
+Thread Name: Barista 3
+Message    :  Preparing order for Customer 2's order 2
+------------------------
+2025-01-12 19:38:49 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:49
+Thread Name: Customer 1
+Message    : Customer 1's order 3
+------------------------
+2025-01-12 19:38:50 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:50
+Thread Name: Customer 2
+Message    : Customer 2's order 3
+------------------------
+2025-01-12 19:38:50 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:50
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 3's order 2
+------------------------
+2025-01-12 19:38:50 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:50
+Thread Name: Customer 4
+Message    : Customer 4's order 3
+------------------------
+2025-01-12 19:38:50 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:50
+Thread Name: Barista 3
+Message    :  Preparing order for Customer 4's order 2
+------------------------
+2025-01-12 19:38:50 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:50
+Thread Name: Customer 3
+Message    : Customer 3's order 3
+------------------------
+2025-01-12 19:38:51 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:51
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 1's order 3
+------------------------
+2025-01-12 19:38:51 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:51
+Thread Name: Customer 1
+Message    : Customer 1's order 4
+------------------------
+2025-01-12 19:38:51 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:51
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 2's order 3
+------------------------
+2025-01-12 19:38:51 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:51
+Thread Name: Customer 3
+Message    : Customer 3's order 4
+------------------------
+2025-01-12 19:38:52 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:52
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 4's order 3
+------------------------
+2025-01-12 19:38:52 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:52
+Thread Name: Customer 4
+Message    : Customer 4's order 4
+------------------------
+2025-01-12 19:38:52 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:52
+Thread Name: Customer 2
+Message    : Customer 2's order 4
+------------------------
+2025-01-12 19:38:52 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:52
+Thread Name: Barista 3
+Message    :  Preparing order for Customer 3's order 3
+------------------------
+2025-01-12 19:38:53 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:53
+Thread Name: Customer 1
+Message    : Customer 1's order 5
+------------------------
+2025-01-12 19:38:53 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:53
+Thread Name: Barista 3
+Message    :  Preparing order for Customer 1's order 4
+------------------------
+2025-01-12 19:38:53 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:53
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 3's order 4
+------------------------
+2025-01-12 19:38:53 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:53
+Thread Name: Customer 3
+Message    : Customer 3's order 5
+------------------------
+2025-01-12 19:38:53 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:53
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 4's order 4
+------------------------
+2025-01-12 19:38:53 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:53
+Thread Name: Customer 4
+Message    : Customer 4's order 5
+------------------------
+2025-01-12 19:38:54 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:54
+Thread Name: Customer 2
+Message    : Customer 2's order 5
+------------------------
+2025-01-12 19:38:54 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:54
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 2's order 4
+------------------------
+2025-01-12 19:38:55 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:55
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 1's order 5
+------------------------
+2025-01-12 19:38:55 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:55
+Thread Name: Barista 3
+Message    :  Preparing order for Customer 3's order 5
+------------------------
+2025-01-12 19:38:56 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:56
+Thread Name: Barista 1
+Message    :  Preparing order for Customer 4's order 5
+------------------------
+2025-01-12 19:38:56 [INFO] :  ------------------------
+Time       : 2025-01-12 19:38:56
+Thread Name: Barista 2
+Message    :  Preparing order for Customer 2's order 5
+------------------------
